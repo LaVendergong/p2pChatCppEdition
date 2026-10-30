@@ -1,0 +1,9 @@
+build/
+build-asan/
+data/
+p2pdata/
+*.log
+compile_commands.json
+.vscode/
+__pycache__/
+*.pyc
